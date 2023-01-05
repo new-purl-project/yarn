@@ -123,4 +123,4 @@
       "/_(temp|mock|install|init|helpers).js$"
     ]
   }
-}
+^}

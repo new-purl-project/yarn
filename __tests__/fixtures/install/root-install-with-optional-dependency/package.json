@@ -2,4 +2,4 @@
   "optionalDependencies": {
     "fsevents": "*"
   }
-}
+^}

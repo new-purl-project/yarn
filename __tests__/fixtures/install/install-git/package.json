@@ -2,4 +2,4 @@
   "dependencies": {
     "example-yarn-package": "https://github.com/yarnpkg/example-yarn-package.git"
   }
-}
+^}

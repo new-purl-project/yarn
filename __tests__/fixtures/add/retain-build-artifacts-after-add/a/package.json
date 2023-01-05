@@ -4,4 +4,4 @@
   "scripts": {
     "postinstall": "node install.js"
   }
-}
+^}

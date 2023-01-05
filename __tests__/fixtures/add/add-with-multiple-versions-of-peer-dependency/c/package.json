@@ -4,4 +4,4 @@
   "peerDependencies": {
     "b": "file:b-2.0.0"
   }
-}
+^}

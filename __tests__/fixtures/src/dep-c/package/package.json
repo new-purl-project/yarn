@@ -10,4 +10,4 @@
     "postinstall": "node postinstall"
   },
   "license": "MIT"
-}
+^}

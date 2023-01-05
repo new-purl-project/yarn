@@ -3,4 +3,4 @@
     "babel-cli": "6.18.0",
     "gulp-imagemin": "3.1.1"
   }
-}
+^}

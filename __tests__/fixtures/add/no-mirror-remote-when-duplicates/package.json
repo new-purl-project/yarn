@@ -5,4 +5,4 @@
     "jest-cli": "15.1.1",
     "node-notifier": "4.6.1"
   }
-}
+^}

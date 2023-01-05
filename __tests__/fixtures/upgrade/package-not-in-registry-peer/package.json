@@ -5,4 +5,4 @@
   "peerDependencies": {
     "yarn-test-git-repo": "https://github.com/yarnpkg/e2e-test-repo#master"
   }
-}
+^}

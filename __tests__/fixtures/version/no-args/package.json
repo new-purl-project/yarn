@@ -6,4 +6,4 @@
     "version": "echo version",
     "postversion": "echo postversion"
   }
-}
+^}

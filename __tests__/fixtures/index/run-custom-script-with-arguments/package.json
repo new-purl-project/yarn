@@ -5,4 +5,4 @@
   "scripts": {
     "custom-script": "print() { echo \"A message from custom script with args \"$@\"\"; }; print "
   }
-}
+^}

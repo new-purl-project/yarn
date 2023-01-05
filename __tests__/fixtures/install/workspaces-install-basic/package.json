@@ -8,4 +8,4 @@
     "workspace-child",
     "packages/*"
   ]
-}
+^}

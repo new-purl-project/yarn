@@ -4,4 +4,4 @@
     "test-relative": "link:bar",
     "test-missing": "link:baz"
   }
-}
+^}

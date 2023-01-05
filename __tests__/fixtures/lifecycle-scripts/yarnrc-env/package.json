@@ -6,4 +6,4 @@
   "scripts": {
     "preinstall" : "node log-command.js"
   }
-}
+^}

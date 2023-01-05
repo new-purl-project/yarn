@@ -2,4 +2,4 @@
     "dependencies": {
         "dep-a": "file:./dep-a"
     }
-}
+^}

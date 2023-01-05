@@ -2,4 +2,4 @@
     "dependencies": {
         "pkg": "file:./pkg-a"
     }
-}
+^}

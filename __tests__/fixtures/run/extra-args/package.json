@@ -4,4 +4,4 @@
     "prestart": "echo 'prestart'",
     "poststart": "echo 'poststart'"
   }
-}
+^}

@@ -2,4 +2,4 @@
   "dependencies": {
     "sub-dep": "file:sub-dep"
   }
-}
+^}

@@ -2,4 +2,4 @@
   "dependencies": {
     "dep-a": "https://github.com/dep-a.git"
   }
-}
+^}

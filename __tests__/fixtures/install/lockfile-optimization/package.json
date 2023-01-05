@@ -3,4 +3,4 @@
     "webpack": "1.14.0",
     "webpack-parallel-uglify-plugin": "0.2.0"
   }
-}
+^}

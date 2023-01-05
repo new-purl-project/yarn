@@ -2,4 +2,4 @@
   "scripts": {
     "build": "echo 'lint' && echo 'build'"
   }
-}
+^}

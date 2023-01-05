@@ -6,4 +6,4 @@
   "workspaces": [
     "packages/*"
   ]
-}
+^}

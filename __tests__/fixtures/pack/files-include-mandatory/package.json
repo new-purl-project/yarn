@@ -4,4 +4,4 @@
   "main": "index.js",
   "license": "MIT",
   "files": ["a.js", "b.js"]
-}
+^}

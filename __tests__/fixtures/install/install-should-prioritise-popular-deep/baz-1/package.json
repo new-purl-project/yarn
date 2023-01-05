@@ -5,4 +5,4 @@
     "hello": "file:../hello",
     "world": "file:../world"
   }
-}
+^}

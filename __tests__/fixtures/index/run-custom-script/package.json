@@ -5,4 +5,4 @@
   "scripts": {
     "custom-script": "echo \"A message from custom script\" && exit 0"
   }
-}
+^}

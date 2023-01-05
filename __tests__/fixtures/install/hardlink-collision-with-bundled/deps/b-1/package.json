@@ -4,4 +4,4 @@
   "dependencies": {
     "c": "file:../c-1/c-1.0.0.tgz"
   }
-}
+^}

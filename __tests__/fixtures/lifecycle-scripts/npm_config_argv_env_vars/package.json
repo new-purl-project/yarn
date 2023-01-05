@@ -8,4 +8,4 @@
     "pretest" : "node log-command.js",
     "test": "node log-command.js"
   }
-}
+^}

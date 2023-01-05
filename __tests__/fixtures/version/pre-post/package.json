@@ -5,4 +5,4 @@
     "preversion": "echo preversion",
     "postversion": "echo postversion"
   }
-}
+^}

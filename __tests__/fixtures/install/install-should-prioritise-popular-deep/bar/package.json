@@ -4,4 +4,4 @@
   "dependencies": {
     "baz": "file:../baz-1"
   }
-}
+^}

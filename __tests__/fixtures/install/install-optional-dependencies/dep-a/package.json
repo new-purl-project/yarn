@@ -4,4 +4,4 @@
     "optionalDependencies": {
         "dep-b": "file:../dep-b"
     }
-}
+^}

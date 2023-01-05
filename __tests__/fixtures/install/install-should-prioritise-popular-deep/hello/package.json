@@ -4,4 +4,4 @@
   "dependencies": {
     "foobar": "file:../foobar-1"
   }
-}
+^}

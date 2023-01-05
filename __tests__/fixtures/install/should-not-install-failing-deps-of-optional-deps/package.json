@@ -2,4 +2,4 @@
   "optionalDependencies": {
     "optional-dep": "file:optional-dep"
   }
-}
+^}

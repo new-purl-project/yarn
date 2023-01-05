@@ -4,4 +4,4 @@
   "dependencies": {
     "@scoped/b": "file:../scoped-b1"
   }
-}
+^}

@@ -8,4 +8,4 @@
   "resolutions": {
     "**/d1": "file:../d1-2"
   }
-}
+^}

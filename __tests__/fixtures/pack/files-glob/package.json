@@ -4,4 +4,4 @@
   "main": "index.js",
   "license": "MIT",
   "files": ["lib/**/*.js"]
-}
+^}

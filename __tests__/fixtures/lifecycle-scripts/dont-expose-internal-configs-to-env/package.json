@@ -7,4 +7,4 @@
     "prepublish" : "node log-configs.js",
     "pretest" : "node log-configs.js"
   }
-}
+^}

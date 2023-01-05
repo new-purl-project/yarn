@@ -7,4 +7,4 @@
   "resolutions": {
     "@scoped/a/@scoped/b": "file:../scoped-b2"
   }
-}
+^}
